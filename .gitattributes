@@ -1,1 +1,3 @@
 *.inc linguist-language=Pawn
+*.so linguist-language=C++
+*.dll linguist-language=C++
