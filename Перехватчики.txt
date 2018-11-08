@@ -1,0 +1,8 @@
+forward GetPlayerAdminLevel(playerid);
+public GetPlayerAdminLevel(playerid) return pInfo[playerid][pAdmin]; // pInfo[playerid][pAdmin] замените на своё
+
+forward GetPlayerMute(playerid);
+public GetPlayerMute(playerid) return pInfo[playerid][pMuted]; // pInfo[playerid][pMuted] замените на своё
+
+forward GetPlayerHelper(playerid);
+public GetPlayerHelper(playerid) return pInfo[playerid][pHelper]; // pInfo[playerid][pHelper] замените на своё

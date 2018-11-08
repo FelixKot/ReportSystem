@@ -1,0 +1,126 @@
+cmd_report = /report
+
+cmd_ansed = /ans
+
+cmd_menu = /ansmenu
+
+cmd_reload = /reloadreportcfg
+
+cmd_changestyle = /changestyle
+
+player_leave = {FFFFFF}Игрок покинул игру, репорт автоматически удалён.
+
+report = {FFFFFF}Введите ID игрока и причину подачи на него в репорт:
+
+error_maxreports = На данный момент имеется слишком много репортов! Попробуйте позже.
+
+error_mute = [Ошибка] У Вас бан чата.
+
+your_report = {ff0000}Ваша жалоба:{FFFFFF}
+
+a_info = {63BD4E}Ваш запрос{ffffff}
+b_info = {63BD4E}в очереди под номером{ffffff}
+c_info = {63BD4E}. Ожидайте ответа свободного сотрудника.
+
+_info = {ffffff}Поступил новый репорт ({FFBB00}
+info_ = {ffffff}). Для ответа введите: {FFBB00}/ansmenu {ffffff}или  {FFBB00}/ans{ffffff} для быстрого ответа.
+
+style_name = Report Style
+style_text = {FFFFFF}Выберите стиль, в котором хотите получить ответ: Старый стиль - в чат; Новый стиль - в диалог
+
+error_check = Этот репорт уже просматривает один из сотрудников
+
+a_rm = Открыть репорт
+b_rm = Ответить на репорт
+c_rm = Отправить ответ
+d_rm = Удалить репорт
+
+info_check = {63BD4E}Агент поддержки{ffffff}
+info_check2 = {63BD4E}принялся за рассмотрение Вашего запроса ({ffffff}
+info_check3 = {63BD4E})
+
+ans_a = {ffdd00}[Ответ] От
+ans_b = для
+
+rm_delete = Введите причину удаления репорта
+
+rm_deleteadmin = {63BD4E}Агент поддержки{ffffff}
+rm_deleterep = {63BD4E}удалил Ваш запрос{ffffff}
+rm_deletereason = {63BD4E}. Причина:{ffffff}
+
+your_report_delete_style = {ff0000}Ваш запрос был удалён!
+your_report_delete_style1 = {ffffff}Информация о запросе:
+your_report_delete_style2 = Запрос:{FFCC00}
+your_report_delete_style3 = {ffffff}Статус запроса:{ff0000} удалён {ffffff}(причина:
+your_report_delete_style4 = )
+your_report_delete_style5 = {ffffff}Рассмотрел:{FFCC00}
+
+ans_style0 = {ffff00}Ваш вопрос:
+ans_style = {FFCC00}Ответ:
+ans_style1 = {ffffff}Информация о запросе:
+ans_style2 = Запрос:{FFCC00}
+ans_style3 = {ffffff}Статус запроса:{33AA33} отвечено
+ans_style4 = {ffffff}Рассмотрел:{FFCC00}
+
+report_deletemsg = {F04245}Репорт '
+report_deletemsg1 = {F04245}' был удалён
+
+new_mes = Ответ отредактирован и сохранен
+
+error_clearans = Невозможно отправить пустой ответ
+
+please_wait = Пожалуйста, подождите.
+
+error_admlvl = У Вас нет доступа к данной команде.
+
+report_clear = {FFFFFF}Нет неотвеченных репортов
+
+rm_status = {ffeeba}В очереди{ffffff}
+rm_status2 = {ebccff}Проверяется{ffffff}
+rm_status3 = {d9edf7}В обработке{ffffff}
+
+a_warning = {ff0000}Внимание! {ffffff}Имеется{ffdd00}
+b_warning = {ffffff}неотвеченных репортов. Введите {33AA33}/ansmenu{ffffff} для просмотра.
+
+d_header = {FFCC00}От
+d_text = {FFFFFF}Текст:
+d_nexttext = - Прислал:
+d_answed = {ffdd00}Ответ:
+
+t_reporthead = {FFCC00}Репорт
+
+error = {FFCC00}#Error
+
+limit = [Ошибка] Превышен лимит отправки репортов. Пожалуйста, дождитесь ответа свободного сотрудника.
+
+rm_3 = Возможность удаления репорта отключена создателями.
+
+t_lock = Администрация временно отключила возможность подачи репортов.
+
+button_send = Отправить
+button_back = Назад
+button_stylenew = Новый
+button_style = Старый
+button_1 = Выбрать
+button_2 = Принять
+button_cancel = Закрыть
+button_cancel2 = Отмена
+
+menu_head = {FFCC00}Меню репортов
+
+error_isadmin = Сотрудник службы поддержки не может писать в репорт.
+
+t_clear = Сработала система автоочистки. Все созданные Вами репорты были автоматически удалены. Всего удалено репортов:
+
+t_clearforadmin = Репорт был автоматически удалён системой очистки спама.
+
+t_checkolmes = Игрок подал более одного репорта. Выберите репорт, на который хотите дать ответ.
+
+report_mes34 = {33aa33}Жалоба от
+report_mes34_2 = :{ffdd00}
+
+report_zcc = Вы используете запрещенные символы!
+
+t_sessionstyle = Теперь до выхода с сервера вы будете получать ответ в{33aa33}
+t_sessionstyleinfo = {ffffff}. Для смены стиля ответа введите:{33aa33}
+t_sessionstylelock = Администрация временно отключила возможность выбора стиля.

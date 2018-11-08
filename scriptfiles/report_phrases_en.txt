@@ -1,0 +1,104 @@
+cmd_report = /report
+
+cmd_ansed = /ans
+
+cmd_reload = /reloadreportcfg
+
+player_leave = {FFFFFF}Player left the game, report was automatically deleted.
+
+report = {FFFFFF}Enter the player ID and the reason for submitting him to the report:
+
+error_maxreports = Sorry, but there are too many reports at the moment! Try again later.
+
+error_mute = [Error] You have been muted.
+
+your_report = {ff0000}Your report:{FFFFFF}
+
+a_info = {63BD4E}Your request{ffffff}
+b_info = {63BD4E}is in line at number{ffffff}
+c_info = {63BD4E}. Wait for the Administrators reply.
+
+_info = {ffffff}You have new report ({FFBB00}
+info_ = {ffffff}). Use to answer: {FFBB00}/ans
+
+style_name = Report Style
+style_text = {FFFFFF}Choose style, in which you want to receive an answer: Old style - into chat; New style - into Dialog
+
+error_check = This report is already viewed by one of the Administrators
+
+a_rm = Open report
+b_rm = Answer to the report
+c_rm = Send answer
+d_rm = Delete report
+
+info_check = {63BD4E}Administrator{ffffff}
+info_check2 = {63BD4E}began to consider your request ({ffffff}
+info_check3 = {63BD4E})
+
+ans_a = Administrator
+ans_b = for
+
+rm_delete = Enter the reason for deleting the report
+
+rm_deleteadmin = {63BD4E}Administrator{ffffff}
+rm_deleterep = {63BD4E}deleted your report{ffffff}
+rm_deletereason = {63BD4E}. Reason:{ffffff}
+
+your_report_delete_style = {ff0000}Your request was deleted!
+your_report_delete_style1 = {ffffff}Request information:
+your_report_delete_style2 = Request:{FFCC00}
+your_report_delete_style3 = {ffffff}Request status:{ff0000} deleted {ffffff}(reason:
+your_report_delete_style4 = )
+your_report_delete_style5 = {ffffff}Considered by:{FFCC00}
+
+ans_style = {FFCC00}Answer:
+ans_style1 = {ffffff}Request information:
+ans_style2 = Request:{FFCC00}
+ans_style3 = {ffffff}Request status:{33AA33} answered
+ans_style4 = {ffffff}Considered by:{FFCC00}
+
+report_deletemsg = {F04245}Report '
+report_deletemsg1 = {F04245}' was deleted
+
+new_mes = Reply was edited and saved
+
+error_clearans = Can not send empty reply
+
+please_wait = Please, wait.
+
+error_admlvl = You don't have permissions to this command.
+
+report_clear = {FFFFFF}No unanswered reports
+
+rm_status = {ffeeba}In queue{ffffff}
+rm_status2 = {ebccff}Checkeing{ffffff}
+rm_status3 = {d9edf7}In process{ffffff}
+
+a_warning = {ff0000}Warning! {ffffff}There is{ffdd00}
+b_warning = {ffffff}too many unanswered reports. Use {33AA33}/ans{ffffff} to view.
+
+d_header = {FFCC00}From
+d_text = {FFFFFF}Text:
+d_nexttext = - Sent by:
+d_answed = {ffdd00}Answer:
+
+t_reporthead = {FFCC00}Report
+
+error = {FFCC00}#Error
+
+limit = [Error] The limit for sending reports has been exceeded. Please wait for the Administrator to reply.
+
+rm_3 = Possibility to delete the report was disabled by the creators.
+
+t_lock = The administration temporarily disabled the ability to write to the report.
+
+button_send = Send
+button_back = Back
+button_stylenew = New
+button_style = Old
+button_1 = Choose
+button_2 = Receive
+button_cancel = Close
+button_cancel2 = Cancel
+
+menu_head = {FFCC00}Reports menu
